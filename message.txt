@@ -1,2 +1,2 @@
-Welcome to Git Practical
-This is the original message.
+This is the first line.
+This is the second line.
